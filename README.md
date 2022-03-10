@@ -1,7 +1,7 @@
 # PS4 5.05 FW WebRTE Open Source - Owner TylerMods & Developer golden
-OWNER TylerMods [github](https://github.com/TylerMods)
+OWNER TylerMods [github](https://github.com/TylerMods) - [twitter](https://twitter.com/TylerMods) -
 
-<br>twitter : https://twitter.com/TylerMods
+
 <br><br>
  source code Developer golden : https://github.com/jogolden
  <br>
