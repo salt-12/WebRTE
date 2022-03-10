@@ -4,3 +4,5 @@ OWNER TylerMods
 <br>twitter : https://twitter.com/TylerMods
 <br><br>
  source code Developer golden : https://github.com/jogolden
+ <br>
+ [Click me to go to Google!](https://www.google.com)
