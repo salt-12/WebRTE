@@ -3,4 +3,4 @@ OWNER TylerMods : [github link](https://github.com/TylerMods) - [TylerMods twitt
 <br><br>
  source code Developer [golden](https://github.com/jogolden)
  <br><br>
- Please Do not delete TylerMods & Golden Credits if you gonna modified it.
+ Please Do not delete TylerMods & Golden Credits if you gonna modified it!
